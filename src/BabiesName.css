@@ -1,0 +1,19 @@
+.baby{
+    padding : 4px 16px ;
+    margin: 12px;
+    border : 2px solid red;
+    border-radius: 50%;
+    max-width: fit-content;
+    display: inline-block;
+
+}
+.f{
+    background-color: pink;
+}
+.m{
+    background-color: aquamarine;
+}
+.baby-parent{
+    
+}
+
